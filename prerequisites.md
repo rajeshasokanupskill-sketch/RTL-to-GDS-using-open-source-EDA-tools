@@ -1,0 +1,2 @@
+Verilog
+Linux commands
