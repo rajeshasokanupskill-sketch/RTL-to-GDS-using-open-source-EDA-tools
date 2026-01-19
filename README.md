@@ -28,12 +28,12 @@ B13[STA]
 B14[Physical Verification and Signoff<br/>DRC / LVS / ERC]
 B15[GDS II]
 
-A8 --> B7
+A6 --> B7
+B7 --> B8
 B8 --> B9
 B9 --> B10
 B10 --> B11
 B11 --> B12
 B12 --> B13
 B13 --> B14
-B14 --> B15
 ```
