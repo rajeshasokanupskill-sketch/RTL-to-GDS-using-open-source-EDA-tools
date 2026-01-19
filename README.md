@@ -1,5 +1,6 @@
 # RTL to GDS using open source EDA tools
 ## VLSI Design Flow
+```mermaid
 flowchart LR
 
 %% Front End Design
@@ -53,3 +54,4 @@ C20[20. Chip (Market)]
 B17 --> C18
 C18 --> C19
 C19 --> C20
+```
