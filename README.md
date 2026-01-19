@@ -33,7 +33,7 @@ B12[12. Placement]
 B13[13. Clock Tree Synthesis]
 B14[14. Routing]
 B15[15. STA]
-B16[16. Physical Verification & Signoff<br/>DRC / LVS / ERC]
+B16[16. Physical Verification and Signoff<br/>DRC / LVS / ERC]
 B17[17. GDS II]
 
 A8 --> B9
@@ -48,8 +48,8 @@ B16 --> B17
 
 %% Manufacturing
 C18[18. Fabrication]
-C19[19. Packaging & Testing<br/>(Validation)]
-C20[20. Chip (Market)]
+C19[19. Packaging and Testing<br/>Validation]
+C20[20. Chip Market]
 
 B17 --> C18
 C18 --> C19
