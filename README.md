@@ -5,7 +5,7 @@ flowchart TD
 
 %% Front End Design
 A1[RTL Design]
-A2[Verification<br/>Simulation / Functional / Formal]
+A2[Verification<br/>Simulation/Functional/Formal]
 A3[Synthesis]
 A4[LEC]
 A5[Gate Level Simulation]
