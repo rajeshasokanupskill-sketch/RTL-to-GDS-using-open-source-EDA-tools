@@ -4,7 +4,6 @@
 flowchart TD
 
 %% Front End Design
-subgraph Front_End["Front-End Design"]
 A1[RTL Design]
 A2[Verification<br/>Simulation / Functional / Formal]
 A3[Synthesis]
@@ -18,7 +17,6 @@ A3 --> A4
 A4 --> A5
 
 %% Back End Design
-subgraph Back_End["Back-End Design"]
 B6[Partitioning]
 B7[Floor Planning]
 B8[Power Planning]
