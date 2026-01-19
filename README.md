@@ -25,8 +25,6 @@ B10[Placement]
 B11[Clock Tree Synthesis]
 B12[Routing]
 B13[STA]
-B14[Physical Verification and Signoff<br/>DRC / LVS / ERC]
-B15[GDS II]
 
 A6 --> B7
 B7 --> B8
