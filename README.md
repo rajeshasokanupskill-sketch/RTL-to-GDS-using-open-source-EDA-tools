@@ -1,7 +1,7 @@
 # RTL to GDS using open source EDA tools
 ## VLSI Design Flow
 ```mermaid
-flowchart LR
+flowchart TD
 
 %% Front End Design
 A1[RTL Design]
