@@ -1,37 +1,37 @@
 # Verilator Installation
-## Update your system
+## 1.Update your system
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
 
-## Install dependencies
+## 2.Install dependencies
 ```bash
 sudo apt install -y git make autoconf g++ flex bison perl python3 help2man
 ```
 
-## Clone Verilator repository
+## 3.Clone Verilator repository
 ```bash
 git clone https://github.com/verilator/verilator.git
 cd verilator
 ```
 
-## Prepare the build
+## 4.Prepare the build
 ```bash
 autoconf
 ./configure
 ```
 
-## Compile Verilator
+## 5.Compile Verilator
 ```bash
 make -j$(nproc)
 ```
 
-## Install Verilator
+## 6.Install Verilator
 ```bash
 sudo make install
 ```
 
-## Verify installation
+## 7.Verify installation
 ```bash
 verilator --version
 ```
