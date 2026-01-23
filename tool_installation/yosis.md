@@ -36,5 +36,5 @@ cd ~/yosys
 ```
 
 ## The Yosys prompt should appear as shown below:
-![Yosys Prompt](images/yosis.png)
+![Yosys Prompt](images/yosis_prompt.png)
 
